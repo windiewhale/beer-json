@@ -1,0 +1,70 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+outline: none;
+box-sizing: border-box;
+background: transparent;
+font-family: inherit;
+}
+a{
+text-decoration: none;
+}
+a img {
+border: none;
+}
+
+button,
+a {
+cursor: pointer;
+color: inherit;
+}
+
+textarea {
+resize: none;
+}
+
+button,
+textarea,
+select {
+appearance: none !important;
+border-radius: 0;
+}
+
+/* --- end of reset --- */
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: repeat(3, 25%);
+    align-content: space-evenly;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+}
+
+h1 {
+    position: fixed;
+    top: 5%;
+
+
+
+}
+
+.card {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(0, 132, 255);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+}
