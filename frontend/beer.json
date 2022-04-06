@@ -24,9 +24,9 @@
             "text": "IPA - Imperial"
         },
         {
-            "title": "Organic Chocolate Stout",
-            "sub": "Samuel Smith Old Brewery",
-            "text": "Stout - English"
+            "title": "La Chouffe",
+            "sub": "Achouffe",
+            "text": "Blonde"
         },
         {
             "title": "Bracia",
@@ -34,24 +34,34 @@
             "text": "Strong Ale - English"
         },
         {
-            "title": "Oatmeal Stout",
-            "sub": "Samuel Smith Old Brewery",
+            "title": "The Last Possession",
+            "sub": "Butcher's Tears",
             "text": "Stout - Oatmeal"
         },
         {
-            "title": "Black Tokyo Horizon",
-            "sub": "BrewDog",
-            "text": "Stout - American Imperial"
+            "title": "Green Cap",
+            "sub": "Butcher's Tears",
+            "text": "Burton Pale Ale"
         },
         {
-            "title": "Vintage Ale",
-            "sub": "Fuller's",
-            "text": "Old Ale"
+            "title": "Mannen Liefde",
+            "sub": "Oedipus Brewery",
+            "text": "Saison"
         },
         {
-            "title": "All the Leaves are Brown",
-            "sub": "Tempest Brewing Company",
-            "text": "Brown Ale - American"
+            "title": "Polyamorie",
+            "sub": "Oedipus Brewery",
+            "text": "Mango Sour"
+        },
+        {
+            "title": "Thai Thai",
+            "sub": "Oedipus Brewery",
+            "text": "Spicy Tripel"
+        },
+        {
+            "title": "IjWit",
+            "sub": "Brouwerij 't IJ",
+            "text": "Wheat"
         }
     ]
 }
