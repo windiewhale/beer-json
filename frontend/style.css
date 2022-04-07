@@ -48,8 +48,7 @@ body {
 
     background-image: url(./beerOne.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    
+    background-size: cover;  
 }
 
 .card {
@@ -137,9 +136,9 @@ body {
 #root div:nth-child(10) {
     width: 180px;
     height: 180px;
-    left: 82%;
+    right: 0%;
     animation-delay: 6s;
-    animation-duration: 17s;
+    animation-duration: 6s;
     font-size: 12px;
 }
 #root div:nth-child(11) {
